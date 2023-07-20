@@ -4,8 +4,7 @@ Developers    : Rakesh
 Created       : 01/08/19
 Description   : lab2  module for testing packet data
 Notes         : From the Cadence "Essential SystemVerilog for UVM" training
--------------------------------------------------------------------
-Copyright Cadence Design Systems (c)2019
+
 -----------------------------------------------------------------*/
 
 module packet_test;
