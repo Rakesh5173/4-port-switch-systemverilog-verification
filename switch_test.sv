@@ -1,13 +1,3 @@
-/*-----------------------------------------------------------------
-File name     : switch_test.sv
-Developers    : Brian Dickinson
-Created       : 01/09/19
-Description   : lab6_vc test module for 4-port switch VC with DUT instantiation
-Notes         : From the Cadence "Essential SystemVerilog for UVM" training
--------------------------------------------------------------------
-Copyright Cadence Design Systems (c)2019
------------------------------------------------------------------*/
-
 module top;
 
   // Check this import matches your VC package name
