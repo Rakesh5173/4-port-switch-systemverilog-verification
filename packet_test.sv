@@ -1,11 +1,3 @@
-/*-----------------------------------------------------------------
-File name     : packet_test.sv
-Developers    : Rakesh
-Created       : 01/08/19
-Description   : lab2  module for testing packet data
-Notes         : From the Cadence "Essential SystemVerilog for UVM" training
-
------------------------------------------------------------------*/
 
 module packet_test;
 import packet_pkg::*;
